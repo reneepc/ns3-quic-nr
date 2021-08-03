@@ -1,0 +1,92 @@
+File name:           Capturas/facebook-5min.pcapng
+Number of packets:   46k
+Data size:           51MB
+Data byte rate:      171kBps
+Data bit rate:       1,372kbps
+Average packet size: 1126.52 bytes
+Average packet rate: 152 packets/s
+Number of resolved IPv4 addresses in file: 15
+
+File name:           Capturas/googlePodcasts-5min.pcapng
+Number of packets:   95k
+Data size:           106MB
+Data byte rate:      354kBps
+Data bit rate:       2,833kbps
+Average packet size: 1108.20 bytes
+Average packet rate: 319 packets/s
+Number of resolved IPv4 addresses in file: 26
+Number of resolved IPv6 addresses in file: 1
+
+File name:           Capturas/instagram-5min.pcapng
+Number of packets:   69k
+Data size:           76MB
+Data byte rate:      257kBps
+Data bit rate:       2,056kbps
+Average packet size: 1102.40 bytes
+Average packet rate: 233 packets/s
+Number of resolved IPv4 addresses in file: 19
+
+File name:           Capturas/linkedin-5min.pcapng
+Number of packets:   49k
+Data size:           52MB
+Data byte rate:      177kBps
+Data bit rate:       1,422kbps
+Average packet size: 1069.45 bytes
+Average packet rate: 166 packets/s
+Number of resolved IPv4 addresses in file: 26
+Number of resolved IPv6 addresses in file: 1
+
+File name:           Capturas/maps-5min.pcapng
+Number of packets:   24k
+Data size:           25MB
+Data byte rate:      84kBps
+Data bit rate:       674kbps
+Average packet size: 1041.23 bytes
+Average packet rate: 81 packets/s
+Number of resolved IPv4 addresses in file: 26
+Number of resolved IPv6 addresses in file: 1
+
+File name:           Capturas/netflix-5min.pcapng
+Number of packets:   301k
+Data size:           383MB
+Data byte rate:      1,290kBps
+Data bit rate:       10Mbps
+Average packet size: 1273.54 bytes
+Average packet rate: 1,013 packets/s
+Number of resolved IPv4 addresses in file: 11
+
+File name:           Capturas/spotify-5min.pcapng
+Number of packets:   39k
+Data size:           36MB
+Data byte rate:      128kBps
+Data bit rate:       1,025kbps
+Average packet size: 907.01 bytes
+Average packet rate: 141 packets/s
+Number of resolved IPv4 addresses in file: 38
+
+File name:           Capturas/whatsapp-5min.pcapng
+Number of packets:   14k
+Data size:           11MB
+Data byte rate:      38kBps
+Data bit rate:       311kbps
+Average packet size: 787.86 bytes
+Average packet rate: 49 packets/s
+Number of resolved IPv4 addresses in file: 23
+
+File name:           Capturas/youtube-5min.pcapng
+Number of packets:   48k
+Data size:           57MB
+Data byte rate:      194kBps
+Data bit rate:       1,555kbps
+Average packet size: 1197.73 bytes
+Average packet rate: 162 packets/s
+Number of resolved IPv4 addresses in file: 29
+
+File name:           Capturas/youtubeMusic-5min.pcapng
+Number of packets:   34k
+Data size:           38MB
+Data byte rate:      130kBps
+Data bit rate:       1,047kbps
+Average packet size: 1120.77 bytes
+Average packet rate: 116 packets/s
+Number of resolved IPv4 addresses in file: 25

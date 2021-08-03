@@ -1,0 +1,10 @@
+Youtube, 16.14.35
+Facebook, 315.0.0.47.113
+Google Maps, 10.65.3
+Instagram, 184.0.0.30.117
+Youtube Music, 4.24.51
+LinkedIn, 4.1.531
+Netflix, 7.100.0
+Spotify, 8.6.18.720
+WhatsApp Mensenger, 2.21.9.10
+

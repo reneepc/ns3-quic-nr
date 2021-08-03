@@ -1,0 +1,13 @@
+Facebook, 
+Instagram, 
+LinkedIn, 
+Google Maps, 
+Spotify, 
+WhatsApp Mensenger, 
+Youtube, 
+Youtube Music, 
+
+[16.961, 15.629, 205.239, 14.561, 319.726, 14.139, 14.789, 14.325]
+
+
+[4.733, 1.891, 34.696, 2.555, 34.071, 1.968, 2.206, 2.173]
